@@ -11,7 +11,7 @@ The codebase HTML and CSS files are commented to provide more details on what wa
 
 This screenshot demonstrates how the webpage should appear in your browser. It is not responsive and should be viewed on a desktop, at a resolution above 768px.
 
-![this screenshot demonstrates how the website should display on a desktop](assets/rararach-l.github.io_horiseon apperance.png)
+![this screenshot demonstrates how the website should display on a desktop](assets/horiseon-apperance.png)
     
 ## Credits
 This starter code was refactored using starter code provided by the edX and Department for Education, Skills for Life Front End Development Bootcamp, delivered by Trilogy Education Services.
